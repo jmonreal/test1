@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 bbbbbbbbbbbbbbbbbbbbbbbbbcccccccccccccccccccccccccccccddddddddddddddbrachjoma pero no en master
+=======
+bbbbbbbbbbbbbbbbbbbbbbbbbcccccccccccccccccccccccccccccddddddddddddddbrachjoma
+llllllllllllllll
+>>>>>>> 48ceb13ce5e5bcc68605a4e81591eb442c1ae89c
 
